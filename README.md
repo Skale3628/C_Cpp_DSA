@@ -3,10 +3,10 @@
 ## 🎯 **Purpose**
 A comprehensive collection of **Data Structures and Algorithms** implemented in **C** and **C++** for learning, practice, and reference. This repository focuses on **clean code implementations**, **performance analysis**, and **practical applications**.
 
----
+
 👨‍💻 Author: Shubham Sandip Kale 
 📫 Contact: linkedin.com/in/shubham-sandip-kale-748737205
----
+
 
 ## 📁 **Repository Contents**
 
