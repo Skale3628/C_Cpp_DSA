@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../ccpp"
+		},
+		{
+			"path": "../cpp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
